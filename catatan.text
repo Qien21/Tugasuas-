@@ -1,0 +1,40 @@
+
++-----------+---------------------+---------------+--------------+------------+--------------+--------------+
+| nim       | nama                | jenis_kelamin | tempat_lahir | tgl_lahir  | alamat       | kode_jurusan |
++-----------+---------------------+---------------+--------------+------------+--------------+--------------+
+| 204855016 | M JALALUDIN AKBAR   | L             | LABUHAN HAJI | 2001-12-31 | LABUHAN HAJI | 55           |
+| 204855050 | BAIQ DEWI LASMINING | L             | PUJUT        | 2002-08-27 | PUJUT        | 55           |
+| 204855067 | M ALI SADIQIN       | L             | LABANGKA     | 2000-03-21 | LABANGKA     | 55           |
+| 204855092 | PENDI SAPUTRA       | L             | JENGGIK      | 2000-10-10 | JENGGIK      | 55           |
++-----------+---------------------+---------------+--------------+------------+--------------+--------------+
+
+UPDATE tb_nilai SET nim = 204855016  where nim = 204855001;
+UPDATE tb_nilai SET nim = 204855050  where nim = 204855020;
+UPDATE tb_nilai SET nim = 204855067  where nim = 204855026;
+UPDATE tb_nilai SET nim = 204855092  where nim = 204855108;
+
+UPDATE tb_nilai set nim = 204855049   where nim = 204855114;
+
+
+204855001
+204855020
+204855026
+204855108
+204855114
+
+AZWARUDDIN
+204855049
+WANASABA
+
+
+204855114
+MK6671
+
+0109303
+Siti Puspita Hidasakti MZ, M.Cs
+Kopang
+
+
+MK6678
+SEMINAR
+2002427
